@@ -1,4 +1,11 @@
-- [] set up an Angular Bootstrap project
-- [] create a super simple logo based on a cursive type
+- [x] set up a Bootstrap project
 - [] come up with the copy
-- [] learn about google analytics
+- [] implement google analytics
+- [] blog about the different options in order to position our company:
+	- [] normal printed fonts
+	- [] cursive fonts
+	- [] us (not a font)
+	- [] robopen style products
+	- [] pay for handwritten envelopes
+- [] try the value prop coming out of an opened envelope
+- [] us a generated font for our text - make it different every time?
