@@ -1,0 +1,23 @@
+{
+  "name": "autocursive_website",
+  "version": "1.0.0",
+  "description": "This is the website for a product in my private repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thpongue/autocursive_website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thpongue/autocursive_website/issues"
+  },
+  "homepage": "https://github.com/thpongue/autocursive_website",
+  "devDependencies": {
+    "bootstrap": "^3.3.4",
+    "gulp": "^3.8.11"
+  }
+}

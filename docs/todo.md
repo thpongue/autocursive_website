@@ -1,0 +1,4 @@
+- [] set up an Angular Bootstrap project
+- [] create a super simple logo based on a cursive type
+- [] come up with the copy
+- [] learn about google analytics

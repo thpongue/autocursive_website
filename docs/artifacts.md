@@ -1,0 +1,4 @@
+- [x] domain name: autocursive.com
+- [] put up a website with analytics and CTA
+	- [] CTA to indicate interest
+	- [] google stats to feedback to me
